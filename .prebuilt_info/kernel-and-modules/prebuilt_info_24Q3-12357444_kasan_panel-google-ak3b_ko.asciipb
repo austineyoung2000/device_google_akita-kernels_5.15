@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12357444"
+    target: "akita_kasan"
+    source_file: "panel-google-ak3b.ko"
+  }
+  dest_file: "24Q3-12357444/kasan/panel-google-ak3b.ko"
+  version: "12357444"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/akita-kernels/5.15"
+}
